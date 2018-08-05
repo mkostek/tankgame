@@ -1,0 +1,6 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\bin\Debug\tank oyunu.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\bin\Debug\tank oyunu.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\bin\Debug\tank oyunu.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\obj\Debug\tank oyunu.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\obj\Debug\tank oyunu.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\tank oyunu\tank oyunu\obj\Debug\tank oyunu.pdb
